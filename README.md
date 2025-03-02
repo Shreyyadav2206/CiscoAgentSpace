@@ -9,10 +9,14 @@ It gives a platform for the Cisco Engineers and Non Engineers to implement on id
 
 Advantges:
 ===
->> It allows the Engineers to automate their tasks(saving time and Energy)
->> Opportunity to build customized solutions for their own use cases
->> It allows for users to use the Bots build by others to integrate in their workflow as well
->> Creates a layer of abstraction to deal with tools like Borg, CasemonGateway, Webex bot building
+* It allows the Engineers to automate their tasks(saving time and Energy)
+
+* Opportunity to build customized solutions for their own use cases
+
+* It allows for users to use the Bots build by others to integrate in their workflow as well
+
+* Creates a layer of abstraction to deal with tools like Borg, CasemonGateway, Webex bot building
+
 
 Tools which are integrated using this:
 ===
