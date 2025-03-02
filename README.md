@@ -21,12 +21,12 @@ Advantges:
 Tools which are integrated using this:
 ===
 
-Casemon Gateway
-Borg/BDB
-Webex bot/ Contact card
-CX playground space
-Langsmith/ Langchain
-Splunk for Analytics
+*Casemon Gateway
+*Borg/BDB
+*Webex bot/ Contact card
+*CX playground space
+*Langsmith/ Langchain
+*Splunk for Analytics
 
 Pages in Cisco AgentSpace
 =====
